@@ -5,7 +5,7 @@
 
 My research interest lies in bridging a **safety-focused formal verification theory** with **generative-model-based robot policies** to achieve safe, reliable, and robust autonomy
 
-💬 Reach out to me about research discussion, education
+💬 Feel free to reach out to discuss more about research and education!
 #### Frameworks
 Pytorch, MuJoCo, cyipot, Gurobi
 
